@@ -2,7 +2,7 @@
 
 <p align="center">
    Aspiring Software & ML Engineer | 💡 Building AI projects to solve real problems |  Focused on Fall 2025 internships
-  🌱 "Building the life I once dreamed of — one commit at a time."
+  <p align="center"> 🌱 "Building the life I once dreamed of — one commit at a time." </p>
 </p>
 
 ---

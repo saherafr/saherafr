@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Saher+Afrin+Khan;Software+Engineer+in+Progress;Building+LLM-integrated+tools+with+impact" alt="Typing animation" />
+</p>
+
 <h1 align="center">Hi there, I'm Saher</h1>
 
 <p align="center">

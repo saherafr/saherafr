@@ -34,16 +34,10 @@
 > Built using **Next.js**, **Tailwind CSS**, **React**, and **Ollama/Gemini** for language understanding.
 
 ####  [IntelliDoc Engine](https://github.com/saherafr/intelli-doc-engine)
+> IntelliDoc is a smart document analysis backend built with FastAPI, powered by HuggingFace Transformers, and integrated with AWS S3 and Docker for scalable, production-ready deployment.It’s not just an OCR tool — it’s a foundation for custom document intelligence, capable of summarizing content, extracting entities, and answering questions from PDFs or images.
 
-IntelliDoc is a smart document analysis engine designed to extract meaningful information from uploaded files using modern NLP and cloud-based infrastructure.
--  OCR (Optical Character Recognition) for text extraction from images/PDFs
--  Named Entity Recognition (NER) to identify names, dates, organizations, etc.
--  Document-based Question Answering (ask questions about the uploaded file)
--  AWS S3 integration for scalable document storage
--  Dockerized backend for easy deployment
--  Built with FastAPI for high-performance asynchronous APIs
->  This project reflects my interest in backend systems, cloud engineering, and practical NLP applications. It's designed for scale and real-world use cases in legal, academic, and enterprise document automation.
-
+####  [QRScanner](https://github.com/saherafr/QRScanner)
+> An innovative Android application designed to streamline the event organization process for both organizers and attendees. With a user-friendly interface, Conclave offers a comprehensive suite of features aimed at enhancing the event experience by simplifying scheduling, communications, and logistics.
 ---
 
 ###  Tech Stack

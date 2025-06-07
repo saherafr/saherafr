@@ -33,11 +33,9 @@
 > An AI voice agent that mimics job interviews with **typing animations**, **voice responses**, and **LLM-based conversation flow**.  
 > Built using **Next.js**, **Tailwind CSS**, **React**, and **Ollama/Gemini** for language understanding.
 
-##  IntelliDoc Engine
+####  IntelliDoc Engine
 
 IntelliDoc is a smart document analysis engine designed to extract meaningful information from uploaded files using modern NLP and cloud-based infrastructure.
-
-###  Key Features
 -  OCR (Optical Character Recognition) for text extraction from images/PDFs
 -  Named Entity Recognition (NER) to identify names, dates, organizations, etc.
 -  Document-based Question Answering (ask questions about the uploaded file)

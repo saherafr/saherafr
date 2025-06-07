@@ -1,20 +1,20 @@
-<!-- Typing Animation -->
+<!-- Typing Animation (Mocha text color) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F5F5F5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Saher+Afrin+Khan;Software+Engineer+in+Progress;Building+LLM-integrated+tools+with+impact" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F5E6DA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Saher+Afrin+Khan;Software+Engineer+in+Progress;Building+LLM-integrated+tools+with+impact" alt="Typing animation" />
 </p>
 
----
+<hr style="border: 0.5px solid #e0a899;">
 
-<h2 align="center">About Me</h2>
+<h2 align="center" style="color:#f5e6da;">About Me</h2>
 
 I'm a Computing Science student at the University of Alberta focused on building intelligent, production-grade tools.  
 Strong in backend systems, cloud deployment, and modern NLP pipelines.  
 Currently working with FastAPI, Docker, AWS, Ollama, and PostgreSQL to ship scalable AI software.  
 I'm actively seeking Fall 2025 SDE internships.
 
----
+<hr style="border: 0.5px solid #e0a899;">
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center" style="color:#f5e6da;">Featured Projects</h2>
 
 ### [ScholarTrack](https://github.com/saherafr/ScholarTrack)  
 Aid discovery chatbot that reduced search effort by 70%.  
@@ -43,9 +43,9 @@ Document intelligence backend for NER, summarization, and Q&A.
 ### [QRScanner](https://github.com/saherafr/QRScanner)  
 Android tool for event logistics and attendance.
 
----
+<hr style="border: 0.5px solid #e0a899;">
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center" style="color:#f5e6da;">Tech Stack</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
@@ -58,23 +58,22 @@ Android tool for event logistics and attendance.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" />
 </p>
 
----
+<hr style="border: 0.5px solid #e0a899;">
 
-<h2 align="center">Contact</h2>
+<h2 align="center" style="color:#f5e6da;">Contact</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saher-khan-961208216/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://saherkhan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000?style=flat-square"/></a>
-  <a href="mailto:saherafr@ualberta.ca"><img src="https://img.shields.io/badge/Email-Contact-DD0031?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/saher-khan-961208216/"><img src="https://img.shields.io/badge/LinkedIn-c58b75?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://saherkhan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-c58b75?style=flat-square"/></a>
+  <a href="mailto:saherafr@ualberta.ca"><img src="https://img.shields.io/badge/Email-Contact-c58b75?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+<hr style="border: 0.5px solid #e0a899;">
 
 <details>
-<summary>🧠 Fun Detail</summary>
+<summary style="color:#f5e6da;">🧠 Fun Detail</summary>
 I built my first production-level AI chatbot in 48 hours. It’s now helping 150+ students.
 </details>
-
 
 <!--
 **saherafr/saherafr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

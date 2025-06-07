@@ -1,9 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Saher</h1>
 
-<p align="center">
-   Aspiring Software & ML Engineer | 💡 Building AI projects to solve real problems |  Focused on Fall 2025 internships
-  <p align="center"> 🌱 "Building the life I once dreamed of — one commit at a time." </p>
-</p>
+![ChatGPT Image Jun 6, 2025, 06_57_43 PM](https://github.com/user-attachments/assets/123c7b3e-1f51-416a-811e-9ec60db66c9b)
 
 ---
 

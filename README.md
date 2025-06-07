@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/saherafr/saherafr/blob/main/assets/banner.png" width="100%" />
-</p>
+
 
 <!-- Typing Animation -->
 <p align="center">

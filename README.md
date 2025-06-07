@@ -1,27 +1,23 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/saherafr/saherafr/blob/main/assets/banner.png" width="100%" />
+</p>
+
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F5F5F5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Saher+Afrin+Khan;Software+Engineer+in+Progress;Building+LLM-integrated+tools+with+impact" alt="Typing animation" />
 </p>
-
-<h1 align="center">Hi there, I'm Saher</h1>
-
-<p align="center">
-   Software & Machine Learning Engineer in the making <br>
-   Building AI products that blend utility with impact <br>
-   Focused on Fall 2025 internships in SDE and ML roles
-</p>
-
-<p align="center"><em>"Building the life I once dreamed of — one commit at a time."</em></p>
 
 ---
 
 ## About Me
 
 - B.Sc. Computing Science student (Minor in Mathematics) at the University of Alberta  
-- Strong foundation in backend development, NLP, and scalable systems  
-- Skilled in Python, Java, SQL, AWS, FastAPI, and LLM integration  
-- Actively developing intelligent, production-ready tools with real-world impact  
-- Seeking Fall 2025 internships in software engineering or machine learning  
-- Located in Edmonton, Alberta, Canada
+- Foundation in backend development, NLP, and scalable cloud systems  
+- Proficient in Python, Java, SQL, Docker, and AWS  
+- Passionate about building real-world AI tools with intuitive UX and LLM integration  
+- Seeking Fall 2025 SDE internships  
+- Based in Edmonton, Alberta, Canada
 
 ---
 
@@ -29,33 +25,30 @@
 
 ### [ScholarTrack](https://github.com/saherafr/ScholarTrack)  
 Real-time aid discovery chatbot that reduced financial support search effort by 70%.  
-Built using **Flask**, **PostgreSQL**, and **Ollama (Phi3)**.  
-- Optimized database queries and session tracking for 150+ users  
-- Achieved 2x faster response time with backend refactor
+Tech: Flask, PostgreSQL, Ollama (Phi3)  
+- Refactored backend for 2x faster response time  
+- Enabled persistent user sessions for 150+ students
 
 ---
 
 ### [RecruiterAI](https://github.com/saherafr/preppwise)  
-AI-powered interview simulation platform with LLM-driven scoring and voice feedback.  
-Stack: **Next.js**, **Tailwind CSS**, **Firebase Auth**, **Vapi.ai**, **Google Gemini API**  
-- Increased user engagement by 40% via real-time scoring and feedback  
-- Reduced drop-off by 25% through reusable UI and session logging  
-- Benchmarked 30+ interviews to fine-tune model accuracy
+AI interview simulator using Gemini and voice responses for realistic prep.  
+Tech: Next.js, Tailwind CSS, Firebase Auth, Vapi.ai, Gemini API  
+- Increased engagement by 40% through real-time scoring  
+- Built reusable UI + logging to cut drop-off by 25%
 
 ---
 
 ### [IntelliDoc Engine](https://github.com/saherafr/intelli-doc-engine)  
-Production-grade document parser for NER, summarization, and Q&A over PDFs.  
-Stack: **FastAPI**, **Docker**, **AWS S3**, **HuggingFace Transformers**  
-- Achieved 92% accuracy across 1,000+ files  
-- Enabled secure CLI/API access for non-technical teams  
-- Integrated Pytest automation and cloud-native deployment
+LLM-based document intelligence system with NER and Q&A on PDFs.  
+Tech: FastAPI, AWS S3, HuggingFace, Docker  
+- 92% accuracy on 1K+ documents  
+- Secure CLI and API access for non-tech users
 
 ---
 
 ### [QRScanner](https://github.com/saherafr/QRScanner)  
-Android app streamlining event management logistics for organizers and attendees.  
-Focus: user onboarding, scheduling, and communication in real-time
+Android app for efficient event logistics and attendee management.
 
 ---
 
@@ -83,8 +76,6 @@ Focus: user onboarding, scheduling, and communication in real-time
   <a href="https://saherkhan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge"/></a>
   <a href="mailto:saherafr@ualberta.ca"><img src="https://img.shields.io/badge/Email-Contact-DD0031?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-
 
 
 <!--

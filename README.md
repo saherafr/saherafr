@@ -41,9 +41,10 @@ Document intelligence backend for NER, summarization, and Q&A.
 ---
 
 ### [ReadWithMe](https://github.com/saherafr/ReadWithMe) 
-Summarize document/articles  
+Summarize document/articles .This app revolutionizes content consumption, making information processing swift and efficient, ideal for today's fast-paced digital environment.
 **Stack:** RapidAPI, React, Redux, Tailwind CSS 
-Developed an AI-driven web application using React and Redux, interfaced with RapidAPI. The platform elegantly summarizes web articles and PDFs on-demand, offering users succinct content insights. Tailwind CSS ensures a sleek, user-friendly design. This innovative tool revolutionizes content consumption, making information processing swift and efficient, ideal for today's fast-paced digital environment.
+- Developed an AI-driven web application using React and Redux, interfaced with RapidAPI. The platform elegantly summarizes web articles and PDFs on-demand, offering users succinct content insights.
+- Tailwind CSS ensures a sleek, user-friendly design. 
 
 
 ---

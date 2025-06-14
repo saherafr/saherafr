@@ -93,7 +93,7 @@ Summarize document/articles .This app revolutionizes content consumption, making
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saher-khan-961208216/"><img src="https://img.shields.io/badge/LinkedIn-c58b75?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://saherkhan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-c58b75?style=flat-square"/></a>
+  <a href="https://saher-khan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-c58b75?style=flat-square"/></a>
   <a href="mailto:saherafr@ualberta.ca"><img src="https://img.shields.io/badge/Email-Contact-c58b75?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 

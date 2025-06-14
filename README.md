@@ -50,27 +50,27 @@ Summarize document/articles .This app revolutionizes content consumption, making
 
 ---
 
-## 📈 GitHub Activity – Live & Dynamic
+## 📈 GitHub Activity 
 
-### 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=saherafr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
-###  GitHub Stats
-![Fiza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saherafr&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saherafr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-###  Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saherafr&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saherafr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 
-###  GitHub Trophies
-[![Trophy](https://github-profile-trophy.vercel.app/?username=saherafr&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saherafr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
+
+
 
 <hr style="border: 0.5px solid #e0a899;">
 

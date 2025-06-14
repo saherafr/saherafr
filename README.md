@@ -50,6 +50,20 @@ Summarize document/articles .This app revolutionizes content consumption, making
 
 ---
 
+## GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saherafr&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saherafr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saherafr&layout=compact&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=saherafr&theme=tokyonight&column=7" />
+</p>
+
+---
+
 <hr style="border: 0.5px solid #e0a899;">
 
 <h2 align="center" style="color:#f5e6da;">Tech Stack</h2>

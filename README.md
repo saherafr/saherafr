@@ -7,21 +7,14 @@
 
 <h2 align="center">About Me</h2>
 
-<table>
-<tr>
-<td>
-
 I'm a Computing Science student at the University of Alberta focused on building intelligent, production-grade tools.  
 Strong in backend systems, cloud deployment, and modern NLP pipelines.  
 Currently working with FastAPI, Docker, AWS, Ollama, and PostgreSQL to ship scalable AI software.  
 I'm actively seeking Fall 2025 SDE internships.
 
-</td>
-<td>
+
   <img align="right" src="https://github.com/user-attachments/assets/6bee1b4f-fdc6-431a-ace6-dfcfc0398064/4b59aeb19bc3ab9154478da0741aabb0" width="250"/>
-</td>
-</tr>
-</table>
+
 
 <hr style="border: 0.5px solid #e0a899;">
 

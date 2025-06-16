@@ -12,10 +12,6 @@ Strong in backend systems, cloud deployment, and modern NLP pipelines.
 Currently working with FastAPI, Docker, AWS, Ollama, and PostgreSQL to ship scalable AI software.  
 I'm actively seeking Fall 2025 SDE internships.
 
-
-  <img align="right" src="https://github.com/user-attachments/assets/6bee1b4f-fdc6-431a-ace6-dfcfc0398064/4b59aeb19bc3ab9154478da0741aabb0"/>
-
-
 <hr style="border: 0.5px solid #e0a899;">
 
 <h2 align="center" style="color:#f5e6da;">Featured Projects</h2>

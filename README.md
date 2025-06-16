@@ -5,7 +5,9 @@
 
 <hr style="border: 0.5px solid #e0a899;">
 
-<h2 align="center">About Me</h2>
+
+
+<h2 align="center" style="color:#f5e6da;">About Me</h2>
 
 I'm a Computing Science student at the University of Alberta focused on building intelligent, production-grade tools.  
 Strong in backend systems, cloud deployment, and modern NLP pipelines.  
@@ -13,7 +15,6 @@ Currently working with FastAPI, Docker, AWS, Ollama, and PostgreSQL to ship scal
 I'm actively seeking Fall 2025 SDE internships.
 
 <hr style="border: 0.5px solid #e0a899;">
-
 <h2 align="center" style="color:#f5e6da;">Featured Projects</h2>
 
 ### [ScholarTrack](https://github.com/saherafr/ScholarTrack)  

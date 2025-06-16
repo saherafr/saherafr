@@ -13,7 +13,7 @@ Currently working with FastAPI, Docker, AWS, Ollama, and PostgreSQL to ship scal
 I'm actively seeking Fall 2025 SDE internships.
 
 
-  <img align="right" src="https://github.com/user-attachments/assets/6bee1b4f-fdc6-431a-ace6-dfcfc0398064/4b59aeb19bc3ab9154478da0741aabb0" width="250"/>
+  <img align="right" src="https://github.com/user-attachments/assets/6bee1b4f-fdc6-431a-ace6-dfcfc0398064/4b59aeb19bc3ab9154478da0741aabb0"/>
 
 
 <hr style="border: 0.5px solid #e0a899;">

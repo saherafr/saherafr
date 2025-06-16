@@ -1,5 +1,6 @@
 <!-- Typing Animation (Mocha text color) -->
-![571b802073dfee831d9ef4136164bfa4](https://github.com/user-attachments/assets/b382b7c4-a6c0-445e-9352-8491dcba2798)
+![4b59aeb19bc3ab9154478da0741aabb0](https://github.com/user-attachments/assets/6bee1b4f-fdc6-431a-ace6-dfcfc0398064)
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F5E6DA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Saher+Afrin+Khan;Software+Engineer+in+Progress;Building+LLM-integrated+tools+with+impact" alt="Typing animation" />
 </p>

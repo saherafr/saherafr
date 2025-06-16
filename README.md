@@ -1,9 +1,8 @@
 <!-- Typing Animation (Mocha text color) -->
+![github_profile_banner_moon_beach](https://github.com/user-attachments/assets/6e4c65c5-0cdf-4025-9a66-0f8743c7be55)
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F5E6DA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Saher+Afrin+Khan;Software+Engineer+in+Progress;Building+LLM-integrated+tools+with+impact" alt="Typing animation" />
 </p>
-
-![ChatGPT Image Jun 16, 2025, 09_03_04 AM](https://github.com/user-attachments/assets/66ff86c3-4b56-48c8-9f19-47d92546d084)
 
 
 <hr style="border: 0.5px solid #e0a899;">

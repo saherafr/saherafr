@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F5E6DA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Saher+Afrin+Khan;Software+Engineer+in+Progress;Building+LLM-integrated+tools+with+impact" alt="Typing animation" />
 </p>
+![GitHub Snake Light](https://github.com/saherafr/saherafr/blob/output/github-contribution-grid-snake.svg)
 
 <hr style="border: 0.5px solid #e0a899;">
 

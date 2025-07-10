@@ -18,7 +18,7 @@ I'm actively seeking Fall 2025 SDE internships.
 <h2 align="center" style="color:#f5e6da;">Featured Projects</h2>
 
 ### [PromptIQ](https://github.com/saherafr/PromptIQ)  
-A native cloud LLM-powered prompt analysis engine 
+A native cloud LLM-powered prompt analysis engine.
 **Stack:** FastAPI, Amazon Bedrock (Claude), AWS Lambda, DynamoDB, Docker
 - Designed structured LLM agent to score, critique, and suggest prompt improvements  
 - Modular backend architecture, deployable serverlessly via Lambda + API Gateway

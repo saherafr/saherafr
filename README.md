@@ -1,6 +1,6 @@
 <!-- Typing Animation (Mocha text color) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F5E6DA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Saher+Afrin+Khan;Software+Engineer+in+Progress;Building+LLM-integrated+tools+with+impact" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F5E6DA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Saher+Khan;Software+Engineer+in+Progress;Building+LLM-integrated+tools+with+impact" alt="Typing animation" />
 </p>
 
 <hr style="border: 0.5px solid #e0a899;">
@@ -17,6 +17,13 @@ I'm actively seeking Fall 2025 SDE internships.
 <hr style="border: 0.5px solid #e0a899;">
 <h2 align="center" style="color:#f5e6da;">Featured Projects</h2>
 
+### [PromptIQ](https://github.com/saherafr/PromptIQ)  
+A native cloud LLM-powered prompt analysis engine 
+**Stack:** FastAPI, Amazon Bedrock (Claude), AWS Lambda, DynamoDB, Docker
+- Designed structured LLM agent to score, critique, and suggest prompt improvements  
+- Modular backend architecture, deployable serverlessly via Lambda + API Gateway
+
+---
 ### [ScholarTrack](https://github.com/saherafr/ScholarTrack)  
 Aid discovery chatbot that reduced search effort by 70%.  
 **Stack:** Flask, PostgreSQL, Ollama (Phi3)  

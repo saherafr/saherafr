@@ -19,11 +19,11 @@ I'm actively seeking Fall 2025 SDE internships.
 
 
 ### [PromptIQ](https://github.com/saherafr/PromptIQ)  
-A native cloud LLM-powered prompt analysis engine.
+PromptIQ is a SaaS-style backend system that evaluates and improves prompts written for large language models.  
+It uses AWS Bedrock (Claude) to generate better versions of user prompts, assigns detailed quality scores, explains improvements, and stores versioned prompt history in DynamoDB.  
+Designed as a modular, distributed backend with production-level deployment via Docker and AWS EC2.
 
 **Stack:** FastAPI, Amazon Bedrock (Claude), AWS Lambda, DynamoDB, Docker
-- Designed structured LLM agent to score, critique, and suggest prompt improvements  
-- Modular backend architecture, deployable serverlessly via Lambda + API Gateway
 
 ---
 ### [ScholarTrack](https://github.com/saherafr/ScholarTrack)  
